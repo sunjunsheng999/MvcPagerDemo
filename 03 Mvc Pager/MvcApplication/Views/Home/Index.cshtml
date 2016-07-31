@@ -1,0 +1,61 @@
+﻿@model MvcApplication.Models.Home.Index
+@using Webdiyer.WebControls.Mvc;
+<title>MVC入门教程</title>
+
+@*----------------------------------ViewModel中的博客地址，mvc入门教程博客地址：http://www.cnblogs.com/iamlilinfeng/archive/2013/04/01/2992432.html-----------------------*@
+@Html.Label("博客地址：") @Model.BlogURL
+<br />
+@Html.Raw("--------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+<br />
+
+@*----------------------------------ViewModel用户实体信息-----------------------*@
+@Html.LabelFor(model => model.User.UserID) @Html.Raw("：") @Model.User.UserID
+<br />
+@Html.LabelFor(model => model.User.UserName) @Html.Raw("：") @Model.User.UserName
+<br />
+
+@*----------------------------------ViewModel数据信息分页-----------------------*@
+@Html.Raw("--------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+<br />
+@using (Html.BeginForm("Index", "Home", new RouteValueDictionary { { "id", "" } }, FormMethod.Get))
+{
+    @Html.Label("查询条件(标题)：") <input name="title" value="@Request.QueryString["title"]" /><input type="submit" value="查询" />
+}
+<table>
+    <tr>
+        <th>编号</th>
+        <th>标题</th>
+        <th>内容</th>
+    </tr>
+    @foreach (var info in Model.Infos)
+    {
+        <tr>
+            <td>@Html.DisplayFor(model => info.InfoID)</td>
+            <td>@Html.DisplayFor(model => info.Title)</td>
+            <td>@Html.DisplayFor(model => info.Content)</td>
+        </tr>
+    }
+    @*----------------------------------使用ViewBig变量传递数据-----------------------*@
+    @*@foreach (Model.Info info in (ViewBag.PagerData as IEnumerable<Model.Info>))
+        {
+            <tr>
+                <td>@Html.DisplayFor(model => info.InfoID)</td>
+                <td>@Html.DisplayFor(model => info.Title)</td>
+                <td>@Html.DisplayFor(model => info.Content)</td>
+            </tr>
+        }*@
+</table>
+@Html.Pager(Model.Infos, new PagerOptions
+        {
+            PageIndexParameterName = "id",
+            ShowPageIndexBox = true,
+            FirstPageText = "首页",
+            PrevPageText = "上一页",
+            NextPageText = "下一页",
+            LastPageText = "末页",
+            PageIndexBoxType = PageIndexBoxType.TextBox,
+            PageIndexBoxWrapperFormatString = "请输入页数{0}",
+            GoButtonText = "转到"
+        })
+@Html.Raw("共：") @Model.Infos.TotalItemCount @Html.Raw("页，")
+@Model.Infos.CurrentPageIndex @Html.Raw("/") @Model.Infos.TotalPageCount @Html.Raw("页")

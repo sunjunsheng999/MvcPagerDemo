@@ -1,0 +1,14 @@
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\DAL\bin\Debug\DAL.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\DAL\bin\Debug\DAL.pdb
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\DAL\obj\Debug\DAL.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\DAL\obj\Debug\DAL.pdb
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\DAL\bin\Debug\Model.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\DAL\obj\Debug\DAL.pdb

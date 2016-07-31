@@ -1,0 +1,64 @@
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\MvcApplication.dll.config
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\MvcApplication.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\MvcApplication.pdb
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\DAL.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\Model.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\Newtonsoft.Json.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Net.Http.Formatting.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Helpers.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Http.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Http.WebHost.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Mvc.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Razor.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Deployment.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Razor.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\DAL.pdb
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\Model.pdb
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\Newtonsoft.Json.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Net.Http.Formatting.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Helpers.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Http.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Http.WebHost.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Mvc.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.Razor.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Deployment.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Razor.xml
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\obj\Debug\MvcApplication.dll
+E:\05 公司业务\Company\05 培训\03 Mvc Pager\MvcApplication\obj\Debug\MvcApplication.pdb
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\MvcApplication.dll.config
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\MvcApplication.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\MvcApplication.pdb
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\DAL.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\Model.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Http.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\DAL.pdb
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\Model.pdb
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Http.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\obj\Debug\MvcApplication.dll
+C:\Users\Administrator\Downloads\MvcPagerDemo\03 Mvc Pager\MvcApplication\obj\Debug\MvcApplication.pdb
